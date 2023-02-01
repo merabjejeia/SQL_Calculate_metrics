@@ -1,6 +1,6 @@
 Даны некоторые образовательные курсы и данные по ним в следующих таблицах: 
 
-![image-2.png](attachment:image-2.png)
+![image-4.png](attachment:image-4.png)
 
 ![image-3.png](attachment:image-3.png)
 
